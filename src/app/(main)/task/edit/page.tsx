@@ -1,7 +1,5 @@
 const TaskEditPage = () => {
-  return (
-    <div>TaskEditPage</div>
-  )
-}
+  return <div>TaskEditPage</div>;
+};
 
-export default TaskEditPage
+export default TaskEditPage;
